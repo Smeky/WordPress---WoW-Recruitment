@@ -23,9 +23,6 @@ Plugins that adds customizable Widget to your site to display recruitment status
 
 == Changelog ==
 
-= 1.1 =
-* Added url link option to Widget title
-
 = 1.0 =
 * First released version
 
