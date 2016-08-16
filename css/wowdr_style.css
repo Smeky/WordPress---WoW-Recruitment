@@ -1,0 +1,57 @@
+.wowdr-class-row {
+    padding: 0 0 5px 5px;
+}
+
+.wowdr-class-icon {
+    display: inline-block;
+    margin-right: 10px;
+    outline: 1px solid rgba(255, 255, 255, 0.3);
+    outline-offset: -1px;
+}
+
+.wowdr-spec-pair {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 3px;
+}
+
+.wowdr-spec-icon {
+    display: block;
+    outline: 1px solid rgba(255, 255, 255, 0.3);
+    outline-offset: -1px;
+}
+
+.wowdr-spec-prio-icon {
+    display: block;
+    margin-top: 7px;
+}
+
+.wowdr-spec-prio-1 {
+    box-shadow: 0 0 5px #FF0000;
+}
+
+.wowdr-spec-prio-2 {
+    box-shadow: 0 0 5px #FFFF00;
+}
+
+.wowdr-spec-prio-3 {
+    box-shadow: 0 0 5px #00FF00;
+}
+
+.wowdr-footer {
+    margin-top: 10px;
+}
+
+.wowdr-legend {
+    padding: 10px 5px 0 5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.wowdr-legend p {
+    text-align: center;
+}
+
+.wowdr-legend-prio-icon {
+    width: 7px;
+    height: 7px;
+}
